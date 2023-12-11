@@ -32,3 +32,6 @@ The simulation environment allows users to configure the number of nodes (N) and
 
 ![csma1](https://github.com/saisanthoshbussa/CSMA-CA-Wireless-Network-Simulation/assets/118352633/f11475d6-b840-4c1d-8a04-80e2726c05fe)
 
+
+![csma2](https://github.com/saisanthoshbussa/CSMA-CA-Wireless-Network-Simulation/assets/118352633/550d97c8-40ff-4296-9bcb-a15274d50007)
+
