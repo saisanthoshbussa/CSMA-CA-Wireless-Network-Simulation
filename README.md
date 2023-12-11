@@ -30,10 +30,5 @@ The simulation environment allows users to configure the number of nodes (N) and
 
 ## Example
 
-```bash
-$ ./main
-Number of Nodes in network: 5
-Enter backoff intervals range (min and max): 1 10
-Set maximum transmission attempts: 5
+![csma1](https://github.com/saisanthoshbussa/CSMA-CA-Wireless-Network-Simulation/assets/118352633/f11475d6-b840-4c1d-8a04-80e2726c05fe)
 
-# ... Simulation output and final statistics ...
